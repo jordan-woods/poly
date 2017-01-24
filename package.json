@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jordan-woods/poly/issues"
   },
-  "homepage": "https://github.com/jordan-woods/poly#readme"
+  "homepage": "https://github.com/jordan-woods/poly#readme",
+  "dependencies": {
+    "ohm-js": "^0.12.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
 }
